@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 25%;
+}
+
+form input {
+    margin-bottom: 5%;
+}
+
+.button {
+    margin: 0 37.5%;
+    width: 25%;
+}
